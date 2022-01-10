@@ -33,6 +33,8 @@ function FeedbackForm({ handleAdd }) {
                 rating
             }
 
+
+            
             handleAdd(newFeedback)
             setText('')
         }
